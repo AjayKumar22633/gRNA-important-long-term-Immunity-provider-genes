@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_6872133 Length: 20
+
+
+>Homo sapiens DOT1 like histone lysine methyltransferase (DOT1L), transcript variant 2, mRNA.
+Sequence ID: NM_001411141.1 Length: 9700
+Range 1: 14 to 33
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  1   CGCCATCTTGGGCCGGCGTG  20
+           ||||||||||||||||||||
+Sbjct  33  CGCCATCTTGGGCCGGCGTG  14
+
+
+
+
+
