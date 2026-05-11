@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_206763 Length: 20
+
+
+>Homo sapiens tet methylcytosine dioxygenase 2 (TET2), transcript variant 2, mRNA.
+Sequence ID: NM_017628.4 Length: 9236
+Range 1: 18 to 37
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  1   GGGCGGGGAGAAACAGAACT  20
+           ||||||||||||||||||||
+Sbjct  18  GGGCGGGGAGAAACAGAACT  37
+
+
+
+
+
