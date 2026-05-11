@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_7992641 Length: 20
+
+
+>Homo sapiens tumor protein p53 (TP53), transcript variant 14, non-coding RNA.
+Sequence ID: NR_176326.1 Length: 2399
+Range 1: 155 to 174
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  1    TCGACGCTAGGATCTGACTG  20
+            ||||||||||||||||||||
+Sbjct  174  TCGACGCTAGGATCTGACTG  155
+
+
+
+
+

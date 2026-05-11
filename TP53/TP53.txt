@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_3468161 Length: 20
+
+
+>Homo sapiens tumor protein p53 (TP53), transcript variant 8, mRNA.
+Sequence ID: NM_001126118.2 Length: 2629
+Range 1: 211 to 230
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  1    GAAACTGTGAGTGGATCCAT  20
+            ||||||||||||||||||||
+Sbjct  211  GAAACTGTGAGTGGATCCAT  230
+
+
+
+
+
