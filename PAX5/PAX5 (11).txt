@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_5820261 Length: 20
+
+
+>Homo sapiens paired box 5 (PAX5), transcript variant 1, mRNA.
+Sequence ID: NM_016734.3 Length: 8704
+Range 1: 286 to 305
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Plus
+
+Query  1    CATGGAGGAGTGAATCAGCT  20
+            ||||||||||||||||||||
+Sbjct  286  CATGGAGGAGTGAATCAGCT  305
+
+
+
+
+
