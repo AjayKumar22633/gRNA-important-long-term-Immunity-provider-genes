@@ -1,0 +1,18 @@
+Query: None Query ID: lcl|Query_935185 Length: 20
+
+
+>Homo sapiens CXXC finger protein 1 (CXXC1), transcript variant 1, mRNA.
+Sequence ID: NM_001101654.2 Length: 2332
+Range 1: 271 to 290
+
+Score:40.1 bits(20), Expect:0.010, 
+Identities:20/20(100%),  Gaps:0/20(0%), Strand: Plus/Minus
+
+Query  1    TGGCCATCTTCTCAGTGATC  20
+            ||||||||||||||||||||
+Sbjct  290  TGGCCATCTTCTCAGTGATC  271
+
+
+
+
+
